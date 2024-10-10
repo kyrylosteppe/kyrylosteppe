@@ -17,16 +17,17 @@ I learn from both my own and others' mistakes, while coding a lot in **C++** bec
 I'm looking for opportunities to work on **interesting and challenging projects**. If you’re working on something cool, let’s connect!  
 
 ### 📫 How to Reach Me  
-Say hello here on **GitHub**, or check out my social profiles below. Follow my progress—I promise there’s going to be a lot of exciting stuff to share! 😊  
-
----
-
-### 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/kyrylo-ilinov-31a895177/)  
-- [SoloLearn](https://www.sololearn.com/en/profile/16999073)  
-- [Instagram](https://www.instagram.com/kyrylosteppe/)  
+Say hello here on **GitHub**, and follow my progress. I promise there’s going to be a lot of exciting stuff to share! 😊  
 
 ---
 
 ### 😄 Pronouns  
 **He/Him**
+
+---
+
+### 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/kyrylo-ilinov-31a895177/)  
+- [SoloLearn](https://www.sololearn.com/en/profile/16999073)  
+- [Instagram](https://www.instagram.com/kyrylosteppe) (@kyrylosteppe)  
+- [HackerRank](https://www.hackerrank.com/slim228049) (@slim228049)  
