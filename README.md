@@ -1,13 +1,25 @@
-### Hi, I’m @kyrylosteppe 👋
+# Hi, I’m @kyrylosteppe 👋
 
-👋 Hello! My name is Kyrylo, and I'm a terrible programmer, but you know what? I don’t plan on staying that way.  
+### 👋 Hello! 
+My name is **Kyrylo**, and I'm a _terrible_ programmer, but you know what? I **don’t plan on staying that way**.  
 
-🚀 I'm getting better by sharing my experiences—both positive and negative—with you.  
+---
 
-🧠 Learning from both my own and others' mistakes, while programming a lot in C++, because it's awesome!  
+### 🚀 Leveling Up  
+I'm on a journey to get better by sharing my experiences—both **positive and negative**—with you.  
 
-🤝 Looking for collaboration opportunities to work on interesting and challenging projects.  
+### 🧠 Learning & Growing  
+I learn from both my own and others' mistakes, while coding a lot in **C++** because, honestly, it's awesome!  
 
-📫 How to reach me: Say hello here on GitHub and follow my progress. I promise there will be a lot of interesting stuff! 😊  
+---
 
-😄 Pronouns: He/Him
+### 🤝 Open to Collaboration  
+I'm looking for opportunities to work on **interesting and challenging projects**. If you’re working on something cool, let’s connect!  
+
+### 📫 How to Reach Me  
+Say hello here on **GitHub**, and follow my progress. I promise there’s going to be a lot of exciting stuff to share! 😊  
+
+---
+
+### 😄 Pronouns  
+**He/Him**
