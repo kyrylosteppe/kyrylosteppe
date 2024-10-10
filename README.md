@@ -1,6 +1,12 @@
-👋 Hi, I’m @kyrylosteppe
-- 👀 I’m interested in all aspects of WordPress development, particularly plugin development, which I am actively learning and ready to tackle projects of varying difficulty.
-- 🌱 I’m currently learning advanced WordPress plugin development and improving my skills in JavaScript, HTML, CSS, PHP, and MySQL.
-- 💞️ I’m looking to collaborate on developing educational platforms, e-commerce sites, and volunteer fund websites.
-- 📫 How to reach me: You can contact me via LinkedIn or Upwork.
-- 😄 Pronouns: He/Him
+Hi, I’m @kyrylosteppe 👋
+👋 Hello! My name is Kyrylo, and I'm a terrible programmer, but you know what? I don’t plan on staying that way.
+
+🚀 I'm getting better by sharing my experiences—both positive and negative—with you.
+
+🧠 Learning from both my own and others' mistakes, while programming a lot in C++, because it's awesome!
+
+🤝 Looking for collaboration opportunities to work on interesting and challenging projects.
+
+📫 How to reach me: Say hello here on GitHub and follow my progress. I promise there will be a lot of interesting stuff! 😊
+
+😄 Pronouns: He/Him
